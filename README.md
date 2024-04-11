@@ -1,4 +1,4 @@
-## To run use following command**
+## To run use following command
 - if MacOS or Linux
 ```bash
 python3 main.py
