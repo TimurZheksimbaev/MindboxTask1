@@ -1,4 +1,4 @@
-**To run use following command**
+## To run use following command**
 - if MacOS or Linux
 ```bash
 python3 main.py
@@ -8,8 +8,8 @@ python3 main.py
 python main.py
 ```
 
-**To run tests**
-
+## To run tests
+- if MacOS or Linux
 ```bash
 python3 Test.py
 ```
